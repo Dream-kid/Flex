@@ -1,0 +1,58 @@
+&header start
+#header1
+#header2
+&header end
+temp arr 100:
+temp 0rr 100:
+$
+multiple comment
+multiple comment
+$
+void func()
+{
+}
+void func<>
+{
+loop i 1..10
+	 {}
+	 loop 1 1..
+	 {}
+	  print<"">:
+	  print<"">
+	  temp val=10:
+	  temp val=10
+	  temp val:
+	  temp val
+	  if true 
+	  val=5:
+	  else 
+	  val=6:
+	  sum=1+2:
+	  minus=1-2:
+	  mul=1*2:
+	  div=1/2:
+}
+main func<>
+    {
+	loop i 1..10
+	 {}
+	 loop 1 1..
+	 {}
+	  print<"">:
+	  print<"">
+	  temp val=10:
+	  temp val=10
+	  temp val:
+	  temp val
+	  if true 
+	  val=5:
+	  else 
+	  val=6:
+	  sum=1+2:
+	  minus=1-2:
+	  mul=1*2:
+	  div=1/2:
+   }
+ main func<>
+ {
+ }
